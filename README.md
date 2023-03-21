@@ -1,5 +1,7 @@
 # Unicorn-Companies-Visualisation
 
+![Corporate unicorn from DALL.E](https://github.com/honeyzwane/Unicorn-Companies-Visualisation/blob/main/DALL%C2%B7E%202023-02-17%2014.47.56%20-%20a%20unicorn%20dressed%20in%20a%20business%20suit.%20in%20a%20sharp%20style.png?raw=true)
+
 ## Description
 The project aimed at exploring the relationships between Unicorn companies, their valuations, and funding. The dataset used contained information on Unicorn companies, including their name, industry, location, valuation, and funding. The data was cleaned and analyzed using various visualization tools from Python.
 
@@ -15,4 +17,5 @@ With enough data or companies, one could try using machine learning to predict w
 ## PowerBI Dashboard
 A snapshot of the PowerBI dashboard used for this project is shown below:
 
-[unicorn](https://user-images.githubusercontent.com/112810387/226634177-db34466d-4828-4f16-a6e7-e126e8652580.jpg)
+![PowerBI Snapshot](https://github.com/honeyzwane/Unicorn-Companies-Visualisation/blob/main/unicorn.jpg)
+
