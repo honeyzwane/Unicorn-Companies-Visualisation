@@ -8,6 +8,12 @@ The project aimed at exploring the relationships between Unicorn companies, thei
 ## Findings
 Based on the findings, Fintech, Internet software and services, and E-commerce & direct-to-buyer are the biggest producers of Unicorn companies. North America and Asia are the hotspots for the companies in question. This could be useful information for investors when making decisions about their next investments.
 
+The choropleth map and the interactive scatter plot does not display on the notebook online, feel free to download the notebook or fork the repo. Below is a picture of the chorepleth map displaying the concetration of Unicorn companies per continent  and the scaterplot displaying the size of each industry by the country. 
+![Choropleth map](https://github.com/honeyzwane/Unicorn-Companies-Visualisation/blob/main/Choropleth.jpg)
+
+![scatterplot](https://github.com/honeyzwane/Unicorn-Companies-Visualisation/blob/main/interactive%20scatter.jpg)
+
+
 ## Data Cleaning
 One thing that could have been done differently is how the data was cleaned. Maybe not adding the zeros during the removal of the $, B, and M signs in the valuation and funding columns. Other than that, the data seems to have been pretty easy to deal with.
 
