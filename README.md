@@ -6,9 +6,9 @@
 The project aimed at exploring the relationships between Unicorn companies, their valuations, and funding. The dataset used contained information on Unicorn companies, including their name, industry, location, valuation, and funding. The data was cleaned and analyzed using various visualization tools from Python.
 
 ## Findings
-Based on the findings, Fintech, Internet software and services, and E-commerce & direct-to-buyer are the biggest producers of Unicorn companies. North America and Asia are the hotspots for the companies in question. This could be useful information for investors when making decisions about their next investments.
+Based on the findings Fintech, Internet software and services and E-commerce & direct-to-buyer are the biggest producers of Unicorn companies. North America and Asia are the hotspots for the companies in question. This could be useful information for investors when making decisions about their next investments.
 
-The choropleth map and the interactive scatter plot does not display on the notebook online, feel free to download the notebook or fork the repo. Below is a picture of the chorepleth map displaying the concetration of Unicorn companies per continent  and the scaterplot displaying the size of each industry by the country respectfully. 
+The choropleth map and the interactive scatter plot does not display on the notebook online, feel free to download the notebook or fork the repo. Below is a picture of the chorepleth map displaying the concetration of Unicorn companies per continent  and the scaterplot displaying the size of each industry by the continent respectfully. 
 ![Choropleth map](https://github.com/honeyzwane/Unicorn-Companies-Visualisation/blob/main/Choropleth.jpg)
 
 ![scatterplot](https://github.com/honeyzwane/Unicorn-Companies-Visualisation/blob/main/interactive%20scatter.jpg)
